@@ -23,7 +23,7 @@ This task explores Supervised Learning through the use of
 This task further explores Supervised Learning through the use of [K-NN](K-NN/KNN-Predict.ipynb) in order to predict whether a person has diabetes or not.
 
 ###  Task 4 (5 Points) - K-Means
-This task explores Unsupervised Learning through the use of [K-Means](K-Means/K-Means.ipynb).
+This task explores Unsupervised Learning through the use of [K-Means](K-Means/KMeans.ipynb).
 
 ### Task 5 (10 Points) - Essay
 For this task, I wrote an essay titled ['A Guide to Machine Learning: Understanding the Fundamentals and Techniques.'](Essay.md)
