@@ -17,13 +17,13 @@ Setting up GitHub Repo, complete with an organised file structure, and a README.
 
 ### Task 2 (5 Points) - Grade Predictor
 This task explores Supervised Learning through the use of
-[Linear Regression](Linear-Regression/GP.ipynb) in order to predict student grades.
+[Linear Regression](Linear-Regression/GP.ipynb) in order to predict student grades. Uploaded on August 27.
 
 ### Task 3 (5 Points) - Diabetes Predictor
-This task further explores Supervised Learning through the use of [K-NN](K-NN/KNN-Predict.ipynb) in order to predict whether a person has diabetes or not.
+This task further explores Supervised Learning through the use of [K-NN](K-NN/KNN-Predict.ipynb) in order to predict whether a person has diabetes or not. Uploaded on August 27.
 
 ###  Task 4 (5 Points) - K-Means
-This task explores Unsupervised Learning through the use of [K-Means](K-Means/KMeans.ipynb).
+This task explores Unsupervised Learning through the use of [K-Means](K-Means/KMeans.ipynb). Uploaded on August 27.
 
 ### Task 5 (10 Points) - Essay
 For this task, I wrote an essay titled ['A Guide to Machine Learning: Understanding the Fundamentals and Techniques.'](Essay.md)
