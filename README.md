@@ -5,19 +5,19 @@
 - [Overview](#overview)
 - [Project Options](#project-options)
 - [Built With](#built-with)
-- [Further Reading](#further-reading)
 - [References](#references)
 
 ## Overview
 A group of tasks demonstrating my understanding of Machine Learning. This task was a portfolio and required a selection of tasks adding up to 30 points. Each coding task folder is made up of a Jupyter Notebook file (ending in '.ipynb') and contains a README.md file, which contains a description of the task. They will also contain relevent images and files to the task.
 
-## Project Options - Total: 30 Points
+## Project Options
 
 ### Task One (5 Points) - Github Repo
 Setting up GitHub Repo, complete with an organised file structure, and a README.md page with all necessary information (Project name and description, dates and references).
 
 ### Task 2 (5 Points) - Grade Predictor
-This task explores Supervised Learning through the use of [Linear Regression](Linear Regression/KNN-Predict.ipynb) in order to predict student grades.
+This task explores Supervised Learning through the use of
+[Linear Regression](Linear-Regression/GP.ipynb) in order to predict student grades.
 
 ### Task 3 (5 Points) - Diabetes Predictor
 This task further explores Supervised Learning through the use of [K-NN](K-NN/KNN-Predict.ipynb) in order to predict whether a person has diabetes or not.
