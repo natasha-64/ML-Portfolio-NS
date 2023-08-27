@@ -1,0 +1,5 @@
+# K-NN
+The K-Nearest Neighbours Algorithm is a supervised learning technique used for making predictions about the grouping of an individual data point. It can be used for both regression and classification problems. K-NN assigns data points to ‘classes’ or ‘labels’ based on the class of the majority of points close to it on a graph (neighbours). K-NN calculates the distance between the data point and its neighbours, often using Euclidean distance, before assigning the data point the label most common amongst its K number of neighbours. The letter K simply represents the number of neighbours being compared with each data point.
+
+# Diabetes Predictor
+This model uses K-NN to predict if a person has diabetes based on the factors provided in this sample data, such as blood sugar, BMI, blood pressure and skin thickness. As this is a supervised learning environment, the algorithm is able to compare its prediction to the actual outcome as it is already known, as well as provide a confusion matrix (accuracy level) on its predictions.
