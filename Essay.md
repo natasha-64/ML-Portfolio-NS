@@ -14,24 +14,35 @@ In summary, machine learning can be split into three categories; supervised lear
 
 9 real-life examples of reinforcement learning (2022) SCU. Available at: https://onlinedegrees.scu.edu/media/blog 9-examples-of-reinforcement-learning. 
 
+
 AlphaGo (no date) Google DeepMind. Available at: https://www.deepmind.com/research/highlighted-research/alphago. 
+
 
 Association rule learning (no date) www.javatpoint.com. Available at: https://www.javatpoint.com/
 
+
 association-rule-learning#:~:text=Association%20rule%20learning%20is%20a,among%20the%20variables%20of%20dataset. 
+
 
 Barreto, S. (2023) Real-life examples of supervised learning and unsupervised learning, Baeldung on Computer Science. Available at: https://www.baeldung.com/cs/examples-supervised-unsupervised-learning. 
 
+
 Dada, E. et al. (2019) Machine learning for email spam filtering: Review, approaches and open research problems, Heliyon. Available at: https://www.sciencedirect.com/science/article/pii/S2405844018353404. 
+
 
 Delua, J. (2021) Supervised vs. unsupervised learning: What’s the difference?, IBM Blog. Available at: https://www.ibm.com/blog/supervised-vs-unsupervised-learning/. 
 
+
 Khandelwal, R. (2022) Supervised, unsupervised, and reinforcement learning, Medium. Available at: https://arshren.medium.com/supervised-unsupervised-and-reinforcement-learning-245b59709f68. 
+
 
 Kumar, A. (2022) Classification problems real-life examples, Data Analytics. Available at: https://vitalflux.com/classification-problems-real-world-examples/. 
 
+
 Mwiti, D. (2023) 10 real-life applications of reinforcement learning, neptune.ai. Available at: https://neptune.ai/blog/reinforcement-learning-applications. 
 
+
 Picasso, G. (2022) Types of machine learning: Supervised, Unsupervised & Reinforcement, Sailthru. Available at: https://www.sailthru.com/marketing-blog/reinforcement-learning-machine-learning/.
+
 
 Zach (2022) 5 examples of cluster analysis in real life, Statology. Available at: https://www.statology.org/cluster-analysis-real-life-examples/. 
