@@ -9,20 +9,25 @@
 - [References](#references)
 
 ## Overview
-A group of tasks demonstrating my understanding of Machine Learning.
+A group of tasks demonstrating my understanding of Machine Learning. This task was a portfolio and required a selection of tasks adding up to 30 points. Each coding task folder is made up of a Jupyter Notebook file (ending in '.ipynb') and contains a README.md file, which contains a description of the task. They will also contain relevent images and files to the task.
 
-## Project Options
+## Project Options - Total: 30 Points
 
-*insert option descriptions below each item*
+### Task One (5 Points) - Github Repo
+Setting up GitHub Repo, complete with an organised file structure, and a README.md page with all necessary information (Project name and description, dates and references).
 
-### Supervised Learning Techniques
+### Task 2 (5 Points) - Grade Predictor
+This task explores Supervised Learning through the use of [Linear Regression](Linear Regression/KNN-Predict.ipynb) in order to predict student grades.
 
-### Unsupervised Learning Technique
+### Task 3 (5 Points) - Diabetes Predictor
+This task further explores Supervised Learning through the use of [K-NN](K-NN/KNN-Predict.ipynb) in order to predict whether a person has diabetes or not.
 
-### Reinforcement Learning
+###  Task 4 (5 Points) - K-Means
+This task explores Unsupervised Learning through the use of [K-Means](K-Means/K-Means.ipynb).
 
-### Essay
-
+### Task 5 (10 Points) - Essay
+For this task, I wrote an essay titled ['A Guide to Machine Learning: Understanding the Fundamentals and Techniques.'](Essay.md)
+Started on August 18, Finished on August 27.
 
 ## Built With
 
@@ -34,3 +39,7 @@ A group of tasks demonstrating my understanding of Machine Learning.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## References
+Tasks 2-4 were completed through knowledge gained through class and files found on EdStem. 
+
+Task 5 includes references in the bibliography at the bottom of the page.
